@@ -1,0 +1,8 @@
+{
+  "name": "jarvis-demo-todo-api",
+  "version": "1.0.0",
+  "description": "Demo Todo API for Jarvis (URD Guardian) — shows commit checks against URD.",
+  "main": "src/app.js",
+  "scripts": { "start": "node src/app.js" },
+  "license": "MIT"
+}
