@@ -11,6 +11,15 @@ which files a commit touched vs. which files the claimed `REQ-ID` says it should
 node src/app.js
 ```
 
+## Endpoints
+
+| Method | Path | Description |
+|--------|------|-------------|
+| POST   | /todos | Create a todo |
+| GET    | /todos | List all todos |
+| PATCH  | /todos/:id | Mark complete |
+| DELETE | /todos/:id | Delete a todo |
+
 ## Check with Jarvis
 
 From the Jarvis project:
